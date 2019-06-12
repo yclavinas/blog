@@ -1,15 +1,14 @@
-name: "blog"
-title: "Yuri Lavinas' Research Page"
+name: "Yuri Lavinas' Research Page"
 output_dir: "."
 navbar:
   title: "Yuri Lavinas' Research Page"
   left:
     - text: "Home"
-      href: https://yclavinas.github.io/webpage/index.html
+      href: index.html
     - text: "Profile"
-      href: https://yclavinas.github.io/webpage/profile.html
+      href: profile.html
     - text: "Research"
-      href: https://yclavinas.github.io/webpage/research.html
+      href: research.html
     - text: "Blog"
       href: https://yclavinas.github.io/blog/
   right:
@@ -19,3 +18,11 @@ navbar:
       href: https://scholar.google.co.jp/citations?user=-hdeQYcAAAAJ&hl=en
     - icon: fa-twitter
       href: https://twitter.com/yurilavinas
+
+output:
+  html_document:
+    highlight: textmate
+    include:
+      after_body: _footer.html
+      in_header: _header.html
+    css: style.css

@@ -1,12 +1,21 @@
 name: "blog"
-title: "Yuri Lavinas' Blog"
-description: |
-  Yuri Lavinas' Blog
-output_dir: "docs"
+title: "Yuri Lavinas' Research Page"
+output_dir: "."
 navbar:
-  right:
+  title: "Yuri Lavinas' Research Page"
+  left:
     - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
-output: distill::distill_article
+      href: https://yclavinas.github.io/webpage/index.html
+    - text: "Profile"
+      href: https://yclavinas.github.io/webpage/profile.html
+    - text: "Research"
+      href: https://yclavinas.github.io/webpage/research.html
+    - text: "Blog"
+      href: https://yclavinas.github.io/blog/
+  right:
+    - icon: fa-envelope
+      href: mailto:yclavinas@gmail.com
+    - icon: fa-google
+      href: https://scholar.google.co.jp/citations?user=-hdeQYcAAAAJ&hl=en
+    - icon: fa-twitter
+      href: https://twitter.com/yurilavinas

@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1153563177",
+    "hash" : "2244728268",
     "id" : "929D928F",
-    "lastKnownWriteTime" : 1560324420,
-    "last_content_update" : 1560324420,
+    "lastKnownWriteTime" : 1560325158,
+    "last_content_update" : 1560325158831,
     "path" : "~/Documents/estudos/blog/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {
+        "cursorPosition" : "7,58",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
