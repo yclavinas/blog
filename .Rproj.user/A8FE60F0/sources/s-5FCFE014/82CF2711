@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560324474119.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "82CF2711",
+    "lastKnownWriteTime" : 1560324507,
+    "last_content_update" : 1560324507757,
+    "path" : "~/Documents/estudos/blog/exec.R",
+    "project_path" : "exec.R",
+    "properties" : {
+        "cursorPosition" : "6,31",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

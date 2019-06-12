@@ -1,0 +1,17 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Yuri Lavinas' Blog",
+    "description": "Welcome to our new blog, Yuri Lavinas' Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-06-12",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-06-12T16:27:01+09:00"
+  }
+]
