@@ -1,8 +1,8 @@
 name: "blog"
-title: "Yuri Lavinas' Research Page"
+title: "Yuri Lavinas' Blog"
 output_dir: "."
 navbar:
-  title: "Yuri Lavinas' Research Page"
+  title: "Yuri Lavinas' Blog"
   left:
     - text: "Home"
       href: https://yclavinas.github.io/webpage/index.html
