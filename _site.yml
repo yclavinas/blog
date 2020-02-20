@@ -1,21 +1,27 @@
 name: "blog"
 title: "Yuri Lavinas' Blog"
 output_dir: "."
+base_url: http://yclavinas.github.io/
 navbar:
   title: "Yuri Lavinas' Blog"
   left:
     - text: "Home"
-      href: https://yclavinas.github.io/webpage/index.html
+      href: https://yclavinas.github.io/index.html
     - text: "Profile"
-      href: https://yclavinas.github.io/webpage/profile.html
+      href: https://yclavinas.github.io/profile.html
     - text: "Research"
-      href: https://yclavinas.github.io/webpage/research.html
+      href: https://yclavinas.github.io/research.html
     - text: "Blog"
       href: https://yclavinas.github.io/blog/
   right:
     - icon: fa-envelope
-      href: mailto:yclavinas@gmail.com
+      href: mailto:lavinas.yuri.xp@tsukuba.ac.jp
     - icon: fa-google
       href: https://scholar.google.co.jp/citations?user=-hdeQYcAAAAJ&hl=en
     - icon: fa-twitter
-      href: https://twitter.com/yurilavinas
+      href: https://twitter.com/yclavinas
+collections:
+  posts:
+    disqus: blog
+    share: [twitter]
+output: distill::distill_article
