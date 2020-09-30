@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>http://yclavinas.github.io/about.html</loc>
+    <lastmod>2019-07-10T18:01:09+09:00</lastmod>
+  </url>
+  <url>
+    <loc>http://yclavinas.github.io/</loc>
+    <lastmod>2019-07-11T16:11:33+09:00</lastmod>
+  </url>
+  <url>
+    <loc>http://yclavinas.github.io/README.html</loc>
+    <lastmod>2019-07-10T18:01:09+09:00</lastmod>
+  </url>
+  <url>
+    <loc>http://yclavinas.github.io/posts/2019-07-10-an-introduction-to-moead/</loc>
+    <lastmod>2019-07-11T16:25:56+09:00</lastmod>
+  </url>
+</urlset>
